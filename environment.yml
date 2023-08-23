@@ -1,0 +1,4 @@
+name: bio
+dependencies:
+  - python=3.10.12
+  - jupyterlab
